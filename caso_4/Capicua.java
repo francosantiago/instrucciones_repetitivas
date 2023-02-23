@@ -28,6 +28,7 @@ public class Capicua
             numero = numero / 10;
         }
         
-        return (numeroOriginal == numeroInvertido);
+        
+        return(numeroOriginal == numeroInvertido);
     }
 }
